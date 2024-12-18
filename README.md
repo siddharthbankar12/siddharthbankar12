@@ -3,9 +3,9 @@
 🚀 **Aspiring Full-Stack Developer | Tech Enthusiast**
 
 ## 🌐 Find Me Online:
-- **LinkedIn  🔗 ** [siddharth-bankar-561a50236](https://linkedin.com/in/siddharth-bankar-561a50236)
-- **Portfolio 🔗 ** [siddharthbankar12.github.io/portfolio](https://siddharthbankar12.github.io/portfolio/)
-- **Instagram 🔗 ** [_s_i_ddharth__](https://www.instagram.com/_s_i_ddharth__/)
+- **LinkedIn  🔗** [ siddharth-bankar-561a50236](https://linkedin.com/in/siddharth-bankar-561a50236)
+- **Portfolio 🔗** [ siddharthbankar12.github.io/portfolio](https://siddharthbankar12.github.io/portfolio/)
+- **Instagram 🔗** [ _s_i_ddharth__](https://www.instagram.com/_s_i_ddharth__/)
 
 
 ## 📧 Get in Touch:
