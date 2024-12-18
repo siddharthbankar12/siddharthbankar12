@@ -1,4 +1,4 @@
-# 🌟 Hi, I’m Siddharth Bankar! 🌟
+#  Hi, I’m Siddharth Bankar! 🌟
 
 🚀 **Aspiring Full-Stack Developer | Tech Enthusiast**
 
