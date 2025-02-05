@@ -1,6 +1,6 @@
 # Hi, I’m Siddharth Bankar! 🚀💻
 
-🚀 **Aspiring Full-Stack Developer | Tech Enthusiast**
+🚀 **Aspiring Full-Stack Web Developer | Tech Enthusiast**
 
 ## 🌐 Find Me Online
 - **LinkedIn 🔗** [siddharth-bankar-561a50236](https://linkedin.com/in/siddharth-bankar-561a50236)
