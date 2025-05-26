@@ -5,11 +5,6 @@
 
 ---
 
-## 🧑‍💻 About Me  
-I’m a self-driven MERN Stack developer, passionate about full-stack development, real-time apps, and clean UI/UX. Always eager to learn and build things that matter.
-
----
-
 ## 🌐 Portfolio  
 🎯 **Portfolio:** [siddharthbankar12.github.io/portfolio](https://siddharthbankar12.github.io/portfolio/)
 
