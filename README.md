@@ -3,7 +3,7 @@
 
 ✨ Passionate about creating impactful web solutions and learning cutting-edge technologies!
 
-
+---
 
 ## 🌐 Portfolio  
 🎯 **Portfolio :** [siddharthbankar12.github.io/portfolio](https://siddharthbankar12.github.io/portfolio/)
