@@ -42,12 +42,6 @@
 ## 🔗 Connect with Me
 
 - 💼 **LinkedIn :** [siddharth-bankar-561a50236](https://linkedin.com/in/siddharth-bankar-561a50236)  
-- 🌐 **Instagram :** [_s\_i\_ddharth\_\_](https://www.instagram.com/_s_i_ddharth__/)
-
----
-
-## 📧 Contact  
 - 📩 **Email :** [siddharthbankar1204@gmail.com](mailto:siddharthbankar1204@gmail.com)  
-- 📱 **Phone :** [+91 9011908472](tel:+919011908472)
 
 ---
